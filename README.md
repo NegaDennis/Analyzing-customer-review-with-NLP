@@ -1,12 +1,6 @@
 # Analyzing-customer-review-with-NLP
 
-## About the project
-The project aim to take advantage of Natural Language Processing capability of Python libraries (e.g., sklearn, nltk, gensim). It uses data on customer reviews about several theme parks of a fictional company, which amounts to 35,000+ examples. Due its limited scope, the coding of the entire project will be done in a single .ipynb file only. This would include all the steps in a linear manner.
-
- 
-<img width="1361" height="321" alt="workflow" src="https://github.com/user-attachments/assets/d3ee2427-565f-4667-9581-2b93443f6ba5" />
-
-Although not entirely related, some Exploratory Data Analysis was also performed. Such analysis extracts extra value from the dataset as well as possibly adding context to result of the machine learning models in later stages.
+The project aim to take advantage of Natural Language Processing (NLP) capability of Python libraries (e.g., sklearn, nltk, gensim). Its main goal is to demonstrate ability to use NLP in practical business contexts. The data used for the project is synthesized.
 
 ## The problem
 
@@ -35,6 +29,10 @@ To consume such large dataset, Python and its relevant libraries will be used. A
 The analysis will include an Exploratory Data Analysis phase to uncover intersing patterns or trends within the dataset. Following that, some Natural Language Processing (NLP) techniques will be used to aggregate the information contained within the reviews. The end goal would be to give a consumable, high-level view on what customers are talking about the theme parks as well as their sentiments on important aspects.
 
 ## The development process
+
+<img width="1361" height="321" alt="workflow" src="https://github.com/user-attachments/assets/d3ee2427-565f-4667-9581-2b93443f6ba5" />
+
+
 After some data cleaning and EDA phase, the development process started with general sentiment analysis on each theme park. This step uses the Natural Language Tool Kit of Python (NLTK). It then devlved deeper and looked specifically at 'service' at each theme park, narrowing down the scope of the topic of interest. At this stage, it looks only at if the sentiment is positive or negative in nature.
 
 Next, topic modeling was addressed. It started with some pre-processing procedures (e.g., stemming, removing stop words, tokenization). Once again, the NLTK library is employed.
