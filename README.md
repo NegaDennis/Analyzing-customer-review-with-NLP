@@ -25,9 +25,7 @@ The company provided a dataset of 35,000+ customer reviews. The subjects of the 
 ## The approach
 To consume such large dataset, Python and its relevant libraries will be used. A snapshot of the libraries used in the project can be seen below.
 
- 
 <img width="851" height="728" alt="snapshot" src="https://github.com/user-attachments/assets/3d883bc4-9bbe-4945-a934-0296946ff3ec" />
-
 
 The analysis will include an Exploratory Data Analysis phase to uncover intersing patterns or trends within the dataset. Following that, some Natural Language Processing (NLP) techniques will be used to aggregate the information contained within the reviews. The end goal would be to give a consumable, high-level view on what customers are talking about the theme parks as well as their sentiments on important aspects.
 
@@ -55,8 +53,6 @@ The first result of the analysis is a general view in sentiment on different bra
 Following that direction, a list of 50 most common words was generated and visualized into the below bar chart. The chart showed a strong difference between the top 5 words and the rest which have a rather uniform distribution.
 
  <img width="911" height="353" alt="image 3" src="https://github.com/user-attachments/assets/b299261d-73b9-4503-80a1-a81bf9df018d" />
-
- 
 
 To add more coherence and deep understanding of the data, the words are arranged into word clouds of different topics as below. Each word cloud represent a common topic in reviews.
 
@@ -94,11 +90,9 @@ The bar charts help greatly in determining how serious a topic is among customer
 
  <img width="773" height="566" alt="image 6" src="https://github.com/user-attachments/assets/e0dc90a1-815d-4094-bf34-61db128346ed" />
 
-
 To imrove on the result, some experimentations were also done to fine tune hyperparameters, particularly the number of topics. An operation that calculate coherence score when number of topics goes from 1 to 10 was initated. The result is captured in the below chart.
 
 
 <img width="636" height="463" alt="image 7" src="https://github.com/user-attachments/assets/94fea7c6-c13c-4af4-bc17-f265d2c7d146" />
 
- 
 As there is not much significant between 10 topics and the best number of topic in terms of coherence score, development effort will stop here.
