@@ -9,6 +9,11 @@ The project aim to take advantage of Natural Language Processing capability of P
 Although not entirely related, some Exploratory Data Analysis was also performed. Such analysis extracts extra value from the dataset as well as possibly adding context to result of the machine learning models in later stages.
 
 ## The problem
+
+![theme park](https://github.com/user-attachments/assets/12229d8e-eef7-4a03-87af-c6c6c4dee664)
+Photo by <a href="https://unsplash.com/@ethanchoover?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ethan Hoover</a> on <a href="https://unsplash.com/photos/people-riding-amusement-park-ride-zyU2gQ9mWLM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
 As a well-known theme park brand, company A hold itself in extremely high standard in terms of service quality and customer experience. The company gathered much success in its early days with its customer-centric approach and has been growing continuously since its beginning. However, as the company reaches global scale, it finds harder and harder to impose a consistent quality level of service and to figure out how to improve customer experience. Particularly, the company is drowned in a flood of customer feedback that overwhelmed its best attempts to consume them in traditional way. In light of problem, the company decided to employ data analytics and machine learning capabilities to help it nagivate the sentiments of its global customer base.
 
 ## The dataset
