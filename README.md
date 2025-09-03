@@ -85,13 +85,11 @@ To add in severity or popularity of these topics, bar charts showing topic popul
 
  <img width="654" height="397" alt="image 5" src="https://github.com/user-attachments/assets/d220da0c-5a47-4114-b882-a16211799e18" />
 
- 
 The bar charts help greatly in determining how serious a topic is among customers as well as zeroing in the biggest topics at any particular branch.
 
  <img width="773" height="566" alt="image 6" src="https://github.com/user-attachments/assets/e0dc90a1-815d-4094-bf34-61db128346ed" />
 
 To imrove on the result, some experimentations were also done to fine tune hyperparameters, particularly the number of topics. An operation that calculate coherence score when number of topics goes from 1 to 10 was initated. The result is captured in the below chart.
-
 
 <img width="636" height="463" alt="image 7" src="https://github.com/user-attachments/assets/94fea7c6-c13c-4af4-bc17-f265d2c7d146" />
 
