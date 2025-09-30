@@ -64,6 +64,7 @@ To add more coherence and deep understanding of the data, the words are arranged
 
 
 A preliminary explanation of these topics:
+
 Topic 1: Having mentioned various themes at theme parks, this topic is likely about most popular themes. With 'like' as one of the keywords, it could indicate positive sentiment.
 
 Topic 2: This topic refers to long waiting lines and crowdedness at the parks.
